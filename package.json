@@ -1,0 +1,17 @@
+{
+  "name": "play-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcin Stawicki",
+  "license": "MIT",
+  "scripts": {
+    "watch": "npx tsc -w",
+    "run-ts": "npx ts-node index.ts",
+    "run-js": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.4",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}

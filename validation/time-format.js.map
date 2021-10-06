@@ -1,0 +1,1 @@
+{"version":3,"file":"time-format.js","sourceRoot":"","sources":["time-format.ts"],"names":[],"mappings":";;;;;AAAA,0EAAgD;AAEhD,MAAqB,UAAW,SAAQ,0BAAc;IAEpD,YAAY,QAAa,SAAS;QAChC,KAAK,CAAC,KAAK,CAAC,CAAC;QACb,IAAI,CAAC,UAAU,GAAG,uDAAuD,CAAC;QAC1E,IAAI,CAAC,SAAS,GAAG;YACf,SAAS;YACT,UAAU;YACV,OAAO;SACR,CAAC;IACJ,CAAC;CACF;AAXD,6BAWC"}
